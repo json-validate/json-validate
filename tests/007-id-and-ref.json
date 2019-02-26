@@ -111,7 +111,7 @@
         "errors": [
           {
             "instancePath": "",
-            "schemaPath": "/definitions/a/type",
+            "schemaPath": "/type",
             "schemaURI": "urn:example:foo"
           }
         ]
