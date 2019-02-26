@@ -112,7 +112,7 @@
       },
       {
         "instance": {
-          "arrayOf": "nulls",
+          "arrayOf": "booleans",
           "values": [
             true,
             true,
