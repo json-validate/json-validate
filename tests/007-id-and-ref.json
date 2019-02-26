@@ -174,7 +174,7 @@
     "registry": [
       {
         "id": "urn:example:foo",
-        "items": {
+        "elements": {
           "ref": "urn:example:bar"
         }
       },
