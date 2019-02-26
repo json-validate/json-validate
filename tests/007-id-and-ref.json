@@ -51,7 +51,7 @@
         "errors": [
           {
             "instancePath": "",
-            "schemaPath": "/definitions/a/type",
+            "schemaPath": "/definitions/b/type",
             "schemaURI": ""
           }
         ]
