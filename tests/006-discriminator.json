@@ -95,17 +95,17 @@
         "errors": [
           {
             "instancePath": "/values/0",
-            "schemaPath": "/discriminator/mapping/nulls/elements/type",
+            "schemaPath": "/discriminator/mapping/nulls/properties/values/elements/type",
             "schemaURI": ""
           },
           {
             "instancePath": "/values/1",
-            "schemaPath": "/discriminator/mapping/nulls/elements/type",
+            "schemaPath": "/discriminator/mapping/nulls/properties/values/elements/type",
             "schemaURI": ""
           },
           {
             "instancePath": "/values/2",
-            "schemaPath": "/discriminator/mapping/nulls/elements/type",
+            "schemaPath": "/discriminator/mapping/nulls/properties/values/elements/type",
             "schemaURI": ""
           }
         ]
@@ -133,17 +133,17 @@
         "errors": [
           {
             "instancePath": "/values/0",
-            "schemaPath": "/discriminator/mapping/booleans/elements/type",
+            "schemaPath": "/discriminator/mapping/booleans/properties/values/elements/type",
             "schemaURI": ""
           },
           {
             "instancePath": "/values/1",
-            "schemaPath": "/discriminator/mapping/booleans/elements/type",
+            "schemaPath": "/discriminator/mapping/booleans/properties/values/elements/type",
             "schemaURI": ""
           },
           {
             "instancePath": "/values/2",
-            "schemaPath": "/discriminator/mapping/booleans/elements/type",
+            "schemaPath": "/discriminator/mapping/booleans/properties/values/elements/type",
             "schemaURI": ""
           }
         ]
