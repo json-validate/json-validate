@@ -180,8 +180,7 @@
       },
       {
         "id": "urn:example:bar",
-        "ref": "urn:example:foo",
-        "elements": {}
+        "ref": "urn:example:foo"
       }
     ],
     "schema": {
@@ -201,7 +200,7 @@
           {
             "instancePath": "/1",
             "schemaPath": "/elements",
-            "schemaURI": "urn:example:bar"
+            "schemaURI": "urn:example:foo"
           }
         ]
       },
@@ -224,7 +223,7 @@
           {
             "instancePath": "/2/0/1/0",
             "schemaPath": "/elements",
-            "schemaURI": "urn:example:bar"
+            "schemaURI": "urn:example:foo"
           }
         ]
       }
